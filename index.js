@@ -1,9 +1,10 @@
+require("dotenv").config();
 const Mustache = require("mustache");
 const fs = require("fs");
 const axios = require("axios");
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const UNSPLASH_ACCESS_KEY = "{{secrets.UNSPLASH_ACCESS_KEY}}";
+const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 
 const DATA = {};
 
