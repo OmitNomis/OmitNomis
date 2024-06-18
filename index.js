@@ -6,7 +6,16 @@ const axios = require("axios");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 
-const DATA = {};
+const DATA = {
+  lastUpdated: new Date().toLocaleDateString("en-GB", {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "numeric",
+    timeZoneName: "short",
+  }),
+};
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
