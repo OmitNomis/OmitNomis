@@ -3,7 +3,7 @@ const fs = require("fs");
 const axios = require("axios");
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const UNSPLASH_ACCESS_KEY = "{{secrets.UNSPLASH_ACCESS.KEY}}";
+const UNSPLASH_ACCESS_KEY = "{{secrets.UNSPLASH_ACCESS_KEY}}";
 
 const DATA = {};
 
