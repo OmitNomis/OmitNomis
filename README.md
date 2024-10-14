@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 13 October at 01:47 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 14 October at 01:44 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It is a shame when the soul is first to give way in this life, and the body does not give way.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Mankind is perpetually the victim of a pointless and futile martydom, fretting life away in fruitless worries though failure to realise what limit is set to acquisition and to the growth of genuine pleasure.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.unsplash.com/photo-1726503454520-1de6e7420074?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg3ODQwNjZ8&ixlib=rb-4.0.3&q=85" target="_blank"><img style="height:500px;" src=https://images.unsplash.com/photo-1726503454520-1de6e7420074?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg3ODQwNjZ8&ixlib=rb-4.0.3&q=85"/></a>
+<a href="https://images.unsplash.com/photo-1724505179167-359fd018c2cc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg4NzAyODF8&ixlib=rb-4.0.3&q=85" target="_blank"><img style="height:500px;" src=https://images.unsplash.com/photo-1724505179167-359fd018c2cc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg4NzAyODF8&ixlib=rb-4.0.3&q=85"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: David Villasana</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: sq lim</caption></i>
