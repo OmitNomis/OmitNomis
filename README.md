@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 19 January at 01:45 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 20 January at 01:41 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>To be everywhere; is to be nowhere.</p></b>
+<b><p>You are retained as counsel for unhappy mankind. You have promised to help those in peril by sea, those in captivity, the sick and the needy, and those whose heads are under the poised axe. Whither are you straying? What are you doing?</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.unsplash.com/photo-1736281059263-316476b5e8e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcyNTExNTl8&ixlib=rb-4.0.3&q=85" target="_blank"><img style="height:500px;" src=https://images.unsplash.com/photo-1736281059263-316476b5e8e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcyNTExNTl8&ixlib=rb-4.0.3&q=85"/></a>
+<a href="https://images.unsplash.com/photo-1734233081965-d8f11da72fe0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzczMzcyODZ8&ixlib=rb-4.0.3&q=85" target="_blank"><img style="height:500px;" src=https://images.unsplash.com/photo-1734233081965-d8f11da72fe0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2MjM3MzF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzczMzcyODZ8&ixlib=rb-4.0.3&q=85"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Jessica Christian</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: BRUNO CERVERA</caption></i>
