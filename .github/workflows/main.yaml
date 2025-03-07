@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: "18.x"
       - name: Cache dependencies and build outputs
-        uses: actions/cache@v2.1.6
+        uses: actions/cache@v4.2.2
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
@@ -32,7 +32,7 @@ jobs:
       - name: Commit and push new README.md
         run: |-
           git diff
-          git config --global user.email "${{secrets.GLOBAL_USER_EMAIL}}"
-          git config --global user.name "${{secrets.GLOBAL_USER_NAME}}"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"          
           git commit -a -m "Daily Update" || exit 0
           git push
