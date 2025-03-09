@@ -1,10 +1,13 @@
-require("dotenv").config();
+require("dotenv").config({
+  path: [".env.local", ".env"],
+});
+
 const Mustache = require("mustache");
 const fs = require("fs");
 const axios = require("axios");
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
+const PEXELS_ACCESS_KEY = process.env.PEXELS_ACCESS_KEY;
 
 const DATA = {
   lastUpdated: new Date().toLocaleDateString("en-GB", {
@@ -21,8 +24,7 @@ async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync("README.md", output);
-    console.log("Readme Generation Complete");
+    fs.writeFileSync("test.md", output);
   });
 }
 async function fetchRandomStoicQuote() {
@@ -38,18 +40,19 @@ async function fetchRandomStoicQuote() {
 
 async function fetchRandomPhoto() {
   try {
-    const response = await axios.get("https://api.unsplash.com/photos/random", {
+    const response = await axios.get("https://api.pexels.com/v1/curated", {
       headers: {
-        Authorization: `Client-ID ${UNSPLASH_ACCESS_KEY}`,
+        Authorization: PEXELS_ACCESS_KEY,
       },
       params: {
-        orientation: "portrait",
+        per_page: 1,
+        page: 1,
       },
     });
 
-    const photo = response.data;
-    DATA.photoUrl = photo.urls.full;
-    DATA.photographerName = photo.user.name;
+    const photo = response.data.photos[0];
+    DATA.photoUrl = photo.src.original;
+    DATA.photographerName = photo.photographer;
   } catch (error) {
     console.error("Error fetching random photo:", error.message);
   }
