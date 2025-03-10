@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 9 March at 07:01 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 10 March at 01:22 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: &quot;Is this the condition that I feared?&quot;</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>If someone speaks badly of you, do not defend yourself against the accusations, but reply; &quot;you obviously don&#39;t know about my other vices, otherwise you would have mentioned these as well.&quot;</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
