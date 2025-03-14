@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 13 March at 01:47 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 14 March at 01:44 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>We always feel anger longer than we feel hurt.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Do your best to rein in your desire. For if you desire something that isn’t within your own control, disappointment will surely follow; meanwhile, you will be neglecting the very things that are within your control that are worthy of desire.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
