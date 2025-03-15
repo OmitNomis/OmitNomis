@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 14 March at 01:44 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 15 March at 01:44 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Do your best to rein in your desire. For if you desire something that isn’t within your own control, disappointment will surely follow; meanwhile, you will be neglecting the very things that are within your control that are worthy of desire.</p></b>
+<b><p>Don&#39;t concern yourself with other people&#39;s business. It&#39;s his problem if he receives you badly. And you cannot suffer for another person&#39;s fault. So don&#39;t worry about the behavior of other.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
