@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 19 March at 01:47 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 20 March at 01:46 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>And why is it so hard when things go against you? If it’s imposed by nature, accept it gladly and stop fighting it. And if not, work out what your own nature requires, and aim at that, even if it brings you no glory.</p></b>
+<b><p>When you have done a good act and another has received it, why do you look for a third thing besides these, as fools do, either to have the reputation of having done a good act or to obtain a return?</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
