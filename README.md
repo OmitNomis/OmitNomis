@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 23 March at 01:53 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 24 March at 01:51 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It is, in other words, not objects and events but the interpretations we place on them that are the problem. Our duty is therefore to exercise stringent control over the faculty of perception, with the aim of protecting our mind from error.</p></b>
+<b><p>Studying philosophy instills modesty and straightforwardness in your character.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
