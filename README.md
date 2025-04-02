@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 1 April at 02:00 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 2 April at 01:50 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: &quot;Is this the condition that I feared?&quot;</p></b>
+<b><p>Our life is a warfare, and a mere pilgrimage.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
