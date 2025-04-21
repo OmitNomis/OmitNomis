@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 20 April at 01:57 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 21 April at 01:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>You are but an impression, and not at all what you seem to be&#39;.</p></b>
+<b><p>Whatever time you choose is the right time. Not late, not early.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
