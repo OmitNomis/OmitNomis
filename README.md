@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 22 April at 01:51 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 23 April at 01:52 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It takes the whole of life to learn how to live, and—what will perhaps make you wonder more—it takes the whole of life to learn how to die.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>We are all mere nuggets of incense on the one altar. Some burn down now , some later - there is no difference .</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
