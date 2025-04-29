@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 28 April at 01:56 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 29 April at 01:53 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>But the man who is not puffed up in good times does not collapse either when they change.</p></b>
+<b><p>The busy man is busy with everything except living; there is nothing that is more difficult to learn how to do right.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
