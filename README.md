@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 5 May at 01:58 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 6 May at 01:55 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>A man should therefore grow accustomed to his state and complain about it as little as possible, seizing upon whatever good it may have.</p></b>
+<b><p>We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
