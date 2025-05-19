@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 18 May at 02:03 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 19 May at 02:02 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The world is maintained by change—in the elements and in the things they compose.</p></b>
+<b><p>The earth, saith the poet, doth often long after the rain. So is the glorious sky often as desirous to fall upon the earth, which argues a mutual kind of love between them.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
