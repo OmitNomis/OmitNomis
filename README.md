@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 7 June at 01:57 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 8 June at 02:08 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested.</p></b>
+<b><p>You are retained as counsel for unhappy mankind. You have promised to help those in peril by sea, those in captivity, the sick and the needy, and those whose heads are under the poised axe. Whither are you straying? What are you doing?</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
