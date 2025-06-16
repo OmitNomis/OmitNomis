@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 15 June at 02:09 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 16 June at 02:04 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The primary indication, to my thinking, of a well-ordered mind is a man&#39;s ability to remain in one place and linger in his own company.</p></b>
+<b><p>The day which we fear as our last  is but the birthday of eternity.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
