@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 16 June at 02:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 17 June at 02:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The day which we fear as our last  is but the birthday of eternity.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>We should realize that an opinion is not easily formed unless a person says and hears the same things every day and practises them in real life.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
