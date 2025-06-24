@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 23 June at 02:07 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 24 June at 02:01 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It is within our power not to make a judgement about something, and so not disturb our minds; for nothing in itself possesses the power to form our judgements.</p></b>
+<b><p>I am unhappy, because this has happened to me.” Not so: say, “I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future.”</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
