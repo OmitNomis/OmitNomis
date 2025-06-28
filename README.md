@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 27 June at 02:01 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 28 June at 01:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The present is all that they can give up, since that is all you have, and what you do not have, you cannot lose.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you, but answer: “He was ignorant of my other faults, else he would not have mentioned these alone.“</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
