@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 29 June at 02:11 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 30 June at 02:06 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Everything that exists is in a manner the seed of that which will be.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>When then any man assents to that which is false, be assured that he did not intend to assent to it as false, for every soul is unwillingly deprived of the truth, as Plato says; but the falsity seemed to him to be true.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
