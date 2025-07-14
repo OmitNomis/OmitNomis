@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 13 July at 02:21 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 14 July at 02:10 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>What&#39;s the good of dragging up sufferings which are over, of being unhappy now just because you were then?</p></b>
+<b><p>The man who fears death will never do anything worthy of a man who is alive.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
