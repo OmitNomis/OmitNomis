@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 17 July at 02:07 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 18 July at 02:09 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Don&#39;t put your purpose in one place and expect to see progress made somewhere else.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Nothing that goes on in anyone else’s mind can harm you. Nor can the shifts and changes in the world around you. —Then where is harm to be found? In your capacity to see it.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
