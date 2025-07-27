@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 26 July at 02:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 27 July at 02:24 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>All the works of mortal man have been doomed to mortality, and in the midst of things which have been destined to die, we live!</p></b>
+<b><p>When one is busy and absorbed in one&#39;s work, the very absorption affords great delight; but when one has withdrawn one&#39;s hand from the completed masterpiece, the pleasure is not so keen.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
