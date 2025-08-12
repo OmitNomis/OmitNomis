@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 11 August at 02:12 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 12 August at 02:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Our actions may be impeded by them, but there can be no impeding our intentions or our dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>A ship should not ride on a single anchor, nor life on a single hope.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.pexels.com/photos/33347997/pexels-photo-33347997.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/33347997/pexels-photo-33347997.jpeg"/></a>
+<a href="https://images.pexels.com/photos/33350503/pexels-photo-33350503.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/33350503/pexels-photo-33350503.jpeg"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: aleksandre lomadze</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Nico Hartnauer</caption></i>
