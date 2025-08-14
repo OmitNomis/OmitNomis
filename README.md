@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 13 August at 02:02 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 14 August at 02:02 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Prove - and an easy task it is - that so-called pleasures, when they go beyond a certain limit, are but punishments...</p></b>
+<b><p>Wealth however limited, if it is entrusted to a good guardian, increases by use.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
