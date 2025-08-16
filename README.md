@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 15 August at 02:03 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 16 August at 01:57 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>No more roundabout discussions of what makes a good man. Be one!</p></b>
+<b><p>Remember: philosophy requires only what your nature already demands. What you’ve been after is something else again—something unnatural.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
