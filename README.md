@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 31 August at 01:55 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 1 September at 02:06 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The fool, with all his other faults, has this also, he is always getting ready to live.</p></b>
+<b><p>He who boasts of his descent, praises the deeds of another.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
