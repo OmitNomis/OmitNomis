@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 13 September at 01:39 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 14 September at 01:53 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>All is ephemeral, both what remembers and what is remembered.</p></b>
+<b><p>Do not let the future disturb you, for you will arrive there, if you arrive, with the same reason you now apply to the present.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
