@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 14 September at 01:53 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 15 September at 01:54 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Do not let the future disturb you, for you will arrive there, if you arrive, with the same reason you now apply to the present.</p></b>
+<b><p>Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
