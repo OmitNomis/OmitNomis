@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 25 September at 01:48 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 26 September at 01:47 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Use thyself even unto those things that thou doest at first despair of. For the left hand we see, which for the most part hieth idle because not used; yet doth it hold the bridle with more strength than the right, because it hath been used unto it.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Inflicted.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
