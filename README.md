@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 11 October at 01:43 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 12 October at 01:51 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Why need we weep over parts of our life? the whole of it calls for tears: new miseries assail us before we have freed ourselves from the old ones.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Thereby gain much leisure, and save much trouble, and therefore at every action a man must privately by way of admonition suggest unto himself, What? may not this that now I go about.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
