@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 17 October at 01:49 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 18 October at 01:44 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The wise man is self-sufficient, that he can do without friends, not that he desires to do without them. When I say &quot;can,&quot; I mean this: he endures the loss of a friend with equanimity.</p></b>
+<b><p>Does it serve any useful purpose to know that Pompey was the first to exhibit the slaughter of eighteen elephants in the Circus, pitting criminals against them in a mimic battle?</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
