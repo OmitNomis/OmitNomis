@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 25 October at 01:48 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 26 October at 01:57 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Life’s finest day for wretched mortals here Is always first to flee.</p></b>
+<b><p>Anger, if not restrained, is frequently more hurtful to us than the injury that provokes it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
