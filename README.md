@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 28 October at 01:51 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 29 October at 01:58 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Don’t be ashamed to need help. Like a soldier storming a wall, you have a mission to accomplish. And if you’ve been wounded and you need a comrade to pull you up? So what?</p></b>
+<b><p>There is nothing more shameful than perfidious friendship.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
