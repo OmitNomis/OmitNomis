@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 1 November at 01:57 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 2 November at 02:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>In banquets remember that you entertain two guests, body and soul: and whatever you shall have given to the body you soon eject: but what you shall have given to the soul, you keep always.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
