@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 2 November at 02:00 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 3 November at 02:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>In banquets remember that you entertain two guests, body and soul: and whatever you shall have given to the body you soon eject: but what you shall have given to the soul, you keep always.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Do the one thing that can render you really happy: cast aside and trample under foot all the things that glitter outwardly and are held out to you a by another or as obtainable from another.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
