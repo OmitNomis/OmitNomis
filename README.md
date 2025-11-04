@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 3 November at 02:00 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 4 November at 01:55 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Do the one thing that can render you really happy: cast aside and trample under foot all the things that glitter outwardly and are held out to you a by another or as obtainable from another.</p></b>
+<b><p>A gift consists not in what is done or given, but in the intention of the giver or doer.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
