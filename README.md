@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 4 November at 01:55 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 5 November at 01:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>A gift consists not in what is done or given, but in the intention of the giver or doer.</p></b>
+<b><p>Restless people often pretend to be calm.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.pexels.com/photos/34505700/pexels-photo-34505700.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/34505700/pexels-photo-34505700.jpeg"/></a>
+<a href="https://images.pexels.com/photos/34585631/pexels-photo-34585631.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/34585631/pexels-photo-34585631.jpeg"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Guillermo Meza</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Léo Gilmant</caption></i>
