@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 5 November at 01:56 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 6 November at 01:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Restless people often pretend to be calm.</p></b>
+<b><p>The things that are indispensable require no elaborate pains for their acquisition; it is only the luxuries that call for labour. Follow nature, and you will need no skilled craftsmen.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
