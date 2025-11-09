@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 8 November at 01:48 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 9 November at 01:59 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Observe always that everything is the result of change, and get used to thinking that there is nothing Nature loves so well as to change existing forms and make new ones like them.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Men do not care how nobly they live, but only how long, although it is within the reach of every man to live nobly, but within no man&#39;s power to live long.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
