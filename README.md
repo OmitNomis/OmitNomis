@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 29 November at 01:54 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 30 November at 02:08 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>You should always look on human life as short and cheap. Yesterday sperm: tomorrow a mummy or ashes.</p></b>
+<b><p>Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do this anymore?</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
