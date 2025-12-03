@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 2 December at 01:59 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 3 December at 01:59 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Whoever then would be free, let him wish for nothing, let him decline nothing, which depends on others; else he must necessarily be a slave.</p></b>
+<b><p>You are a little soul carrying around a corpse.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
