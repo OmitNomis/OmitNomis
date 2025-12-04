@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 3 December at 01:59 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 4 December at 02:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>You are a little soul carrying around a corpse.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>People who know no self-restraint lead stormy and disordered lives, passing their time in a state of fear commensurate with the injuries they do to others, never able to relax.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
