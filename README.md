@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 6 December at 01:54 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 7 December at 02:09 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Every pleasure is most valued when it is coming to an end?</p></b>
+<b><p>Every day as it comes should be welcomed and reduced forthwith into our own possession as if it were the finest day imaginable. What flies past has to be seized at.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
