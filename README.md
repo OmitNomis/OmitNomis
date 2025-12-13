@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 12 December at 02:03 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 13 December at 01:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>And why is it so hard when things go against you? If it’s imposed by nature, accept it gladly and stop fighting it. And if not, work out what your own nature requires, and aim at that, even if it brings you no glory.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>The one to whom nothing was refused, whose tears were always wiped away by an anxious mother, will not abide being offended.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
