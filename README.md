@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 17 December at 01:59 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 18 December at 02:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The highest good is a mind that scorns the happenings of chance, and rejoices only in virtue.</p></b>
+<b><p>We are weak, watery beings standing in the midst of unrealities; therefore let us turn our minds to the things that are everlasting.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
