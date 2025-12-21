@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 20 December at 01:56 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 21 December at 02:09 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>How much happier is the man who owes nothing to anybody except the one he can most easily refuse, himself!</p></b>
+<b><p>That advocate is lionized throughout the whole forum, and fills all the place with a great crowd that stretches farther than he can be heard, yet he says: “When will vacation time come?”</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
