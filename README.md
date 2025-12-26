@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 25 December at 02:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 26 December at 02:03 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>For if we could be satisfied with anything, we should have been satisfied long ago.</p></b>
+<b><p>The only really leisured people are those who devote time to acquiring true knowledge rather than trivia. .</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
