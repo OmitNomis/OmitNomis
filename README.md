@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 27 December at 02:01 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 28 December at 02:21 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Then consider the Middle (and later the New) Comedy and what it aimed at—gradually degenerating into mere realism and empty technique.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>So I have never believed that there was any genuine good in the things which everyone prays for; what is more, I have found them empty and daubed with showy and deceptive colours, with nothing inside to match their appearance.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
