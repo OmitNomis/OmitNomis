@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 8 January at 02:06 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 9 January at 02:08 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The soul becomes dyed with the colours of its thoughts.</p></b>
+<b><p>With respect to pain, then, and pleasure, or death and life, or honour and dishonour, which the universal nature employs equally, whoever is not equally affected is manifestly acting impiously.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
