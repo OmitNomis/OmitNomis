@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 9 January at 02:08 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 10 January at 02:03 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>With respect to pain, then, and pleasure, or death and life, or honour and dishonour, which the universal nature employs equally, whoever is not equally affected is manifestly acting impiously.</p></b>
+<b><p>And to behave in a conciliatory way when people who have angered or annoyed us want to make up.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
