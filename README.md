@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 10 January at 02:03 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 11 January at 02:23 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>And to behave in a conciliatory way when people who have angered or annoyed us want to make up.</p></b>
+<b><p>You have power over your mind - not outside events. Realize this, and you will find strength.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
