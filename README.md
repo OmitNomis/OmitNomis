@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 11 January at 02:23 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 12 January at 02:19 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>You have power over your mind - not outside events. Realize this, and you will find strength.</p></b>
+<b><p>There is a kind of river of things passing into being and Time is a violent torrent. For no sooner is each seen, than it has been carried away, and another is being carried by, and that, too, will be carried away.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.pexels.com/photos/35122412/pexels-photo-35122412.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/35122412/pexels-photo-35122412.jpeg"/></a>
+<a href="https://images.pexels.com/photos/35583791/pexels-photo-35583791.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/35583791/pexels-photo-35583791.jpeg"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Susan  Flores</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Chiara Salvi</caption></i>
