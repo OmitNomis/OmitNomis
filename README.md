@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 12 January at 02:19 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 13 January at 02:04 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>There is a kind of river of things passing into being and Time is a violent torrent. For no sooner is each seen, than it has been carried away, and another is being carried by, and that, too, will be carried away.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>It is not the man who has too little, but the man who craves more, that is poor.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
