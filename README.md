@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 13 January at 02:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 14 January at 02:11 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It is not the man who has too little, but the man who craves more, that is poor.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>He that sinneth, sinneth unto himself. He that is unjust, hurts himself, in that he makes himself worse than he was before. Not he only that committeth, but he also that omitteth something, is oftentimes unjust.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
