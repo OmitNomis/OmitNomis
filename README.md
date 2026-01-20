@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 19 January at 02:19 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 20 January at 02:08 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>A city is not adorned by external things, but by the virtue of those who dwell in it.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Can you no longer see a road to freedom? It&#39;s right in front of you. You need only turn over your wrists.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
