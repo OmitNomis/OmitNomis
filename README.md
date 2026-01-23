@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 22 January at 02:18 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 23 January at 02:08 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Stop preventing philosophers from possessing money; no one has condemned wisdom to poverty. I will despise whatever lies in the domain of Fortune, but if a choice is offered, I will choose the better half.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
