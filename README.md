@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 23 January at 02:08 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 24 January at 02:04 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Stop preventing philosophers from possessing money; no one has condemned wisdom to poverty. I will despise whatever lies in the domain of Fortune, but if a choice is offered, I will choose the better half.</p></b>
+<b><p>Life, if you know how to use it, is long; but…many, following no fixed aim, shifting and… dissatisfied, are plunged by their fickleness into plans that are ever new; some have no fixed principle by which to direct their course.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
