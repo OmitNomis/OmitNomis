@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 24 January at 02:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 25 January at 02:25 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Life, if you know how to use it, is long; but…many, following no fixed aim, shifting and… dissatisfied, are plunged by their fickleness into plans that are ever new; some have no fixed principle by which to direct their course.</p></b>
+<b><p>For only philosophy or honourable occupation can divert from its anguish a heart whose grief springs from love.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
