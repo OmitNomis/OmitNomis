@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 28 January at 02:10 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 29 January at 02:33 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Check your passions that you may not be punished by them.</p></b>
+<b><p>First say to yourself what you would be; and then do what you have to do.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
