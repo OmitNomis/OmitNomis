@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 4 February at 02:34 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 5 February at 02:36 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>There is only one relief for great sufferings, and that is to endure and surrender to their compulsion.</p></b>
+<b><p>Where, then, lies the mistake, since all men crave the happy life?  It is that they regard the means for producing happiness as happiness itself, and, while seeking happiness, they are really fleeing from it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
