@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 19 February at 02:41 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 20 February at 02:36 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Theseus: What is the crime for which you must pay by death? Phaedra: My life.</p></b>
+<b><p>We ought not, therefore, to give over our hearts for good to any one part of the world. We should live with the conviction: &#39;I wasn‟t born for one particular corner: the whole world‟s my home country.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
