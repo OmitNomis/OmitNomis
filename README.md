@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 23 February at 02:43 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 24 February at 02:40 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It is, in other words, not objects and events but the interpretations we place on them that are the problem. Our duty is therefore to exercise stringent control over the faculty of perception, with the aim of protecting our mind from error.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>If you have assumed a character beyond your strength, you have both played a poor figure in that, and neglected one that is within your powers.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
