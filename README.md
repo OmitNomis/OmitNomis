@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 4 March at 02:32 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 5 March at 02:36 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Count your years, and you will be ashamed to desire and pursue the same things you desired in your boyhood days. .</p></b>
+<b><p>For men cease to possess all things the moment they desire all things for their own.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
