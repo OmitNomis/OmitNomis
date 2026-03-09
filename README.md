@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 8 March at 02:40 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 9 March at 02:41 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The young character, which cannot hold fast to righteousness, must be rescued from the mob.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>He who loves fame considers another man’s activity to be his own good; and he who loves pleasure, his own sensations; but he who has understanding, considers his own acts to be his own good.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
