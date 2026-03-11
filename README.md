@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 10 March at 02:32 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 11 March at 02:31 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>For to be afflicted with endless sorrow at the loss of someone very dear is foolish self-indulgence, and to feel none is inhuman callousness.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
