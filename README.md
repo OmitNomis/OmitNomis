@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 13 March at 02:35 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 14 March at 02:33 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>All that exists is the seed of what will emerge from it.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>The essence of philosophy is that a man should so live that his happiness shall depend as little as possible on external things.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
