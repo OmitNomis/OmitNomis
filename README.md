@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 16 March at 02:54 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 17 March at 02:37 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>There is no easy way from the earth to the stars.</p></b>
+<b><p>A guilty person sometimes has the luck to escape detection, but never to feel sure of it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
