@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 17 March at 02:37 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 18 March at 02:44 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>A guilty person sometimes has the luck to escape detection, but never to feel sure of it.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions—not outside.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.pexels.com/photos/20015214/pexels-photo-20015214.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/20015214/pexels-photo-20015214.jpeg"/></a>
+<a href="https://images.pexels.com/photos/13981892/pexels-photo-13981892.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/13981892/pexels-photo-13981892.jpeg"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Jos Peñarán</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Valentina Restrepo Ríos</caption></i>
