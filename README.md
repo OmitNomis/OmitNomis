@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 25 March at 02:43 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 26 March at 02:50 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>I can control my thoughts as necessary; then how can I be troubled? What is outside my mind means nothing to it. Absorb that lesson and your feet stand firm.</p></b>
+<b><p>Think of yourself as dead. You have lived your life. Now take what&#39;s left and live it properly.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
