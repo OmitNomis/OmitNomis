@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 28 March at 02:42 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 29 March at 02:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>We were made, Marcus tells us over and over, not for ourselves but for others, and our nature is fundamentally unselfish. In our relationships with others we must work for their collective good, while treating them justly and fairly as individuals.</p></b>
+<b><p>Not the “not” but the “not yet.”</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
