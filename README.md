@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 31 March at 02:51 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 1 April at 03:22 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Besides, he who is feared, fears also; no one has been able to arouse terror and live in peace of mind.</p></b>
+<b><p>You are unfortunate in my judgment, for you have never been unfortunate. You have passed through life with no antagonist to face you; no one will know what you were capable of, not even you yourself.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
