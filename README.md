@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 1 April at 03:22 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 2 April at 02:47 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>You are unfortunate in my judgment, for you have never been unfortunate. You have passed through life with no antagonist to face you; no one will know what you were capable of, not even you yourself.</p></b>
+<b><p>Unblest is he who thinks himself unblest.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
