@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 5 April at 03:17 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 6 April at 03:20 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>There can be no place of exile within the world since nothing within the world is alien to men.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Neither must he use himself to cut off actions only, but thoughts and imaginations also, that are unnecessary for so will unnecessary consequent actions the better be prevented and cut off.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
