@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 9 April at 02:49 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 10 April at 03:20 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Leisure without study is death; it is a tomb for the living man.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Do, soul, do; abuse and contemn thyself; yet a while and the time for thee to respect thyself, will be at an end.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
