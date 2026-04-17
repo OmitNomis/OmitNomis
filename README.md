@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 16 April at 03:27 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 17 April at 03:21 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>If you would cure anger, do not feed it. Say to yourself: &#39;I used to be angry every day; then every other day; now only every third or fourth day.&#39; When you reach thirty days offer a sacrifice of thanksgiving to the gods.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>The first thing which philosophy undertakes to give is fellow-feeling with all men; in other words, sympathy and sociability.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
