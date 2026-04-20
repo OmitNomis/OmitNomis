@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 19 April at 03:29 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 20 April at 03:31 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>He who restrains himself within the limits prescribed by nature, will not feel poverty; he who exceeds them will always be poor, however great his wealth may be.</p></b>
+<b><p>That day, which you fear as being the end of all things, is the birthday of your eternity.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
