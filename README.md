@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 20 April at 03:31 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 21 April at 03:23 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>That day, which you fear as being the end of all things, is the birthday of your eternity.</p></b>
+<b><p>The greatest obstacle to living is expectancy, which hangs upon tomorrow and loses today. You are arranging what is in Fortune&#39;s control and abandoning what lies in yours.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
