@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 29 April at 03:40 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 30 April at 03:41 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Plato says: &quot;Every king springs from a race of slaves, and every slave has had kings among his ancestors.&quot; The flight of time, with its vicissitudes, has jumbled all such things together, and Fortune has turned them upside down.</p></b>
+<b><p>That man who had prayed for the fasces, when he attains them, desires to lay them aside and says over and over: “When will this year be over!”</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
