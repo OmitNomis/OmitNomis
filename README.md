@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 30 April at 03:41 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 1 May at 03:54 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>That man who had prayed for the fasces, when he attains them, desires to lay them aside and says over and over: “When will this year be over!”</p></b>
+<b><p>The man who spends all his time on his own needs, who organizes every day as though it were his last, neither longs for nor fears the next day.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
