@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 7 May at 03:40 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 8 May at 03:34 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>When you find your direction, check to make sure that it is the right one.</p></b>
+<b><p>Taking account of the value of externals, you see, comes at some cost to the value of one&#39;s own character.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
