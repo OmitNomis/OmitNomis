@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 8 May at 03:34 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 9 May at 03:35 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Taking account of the value of externals, you see, comes at some cost to the value of one&#39;s own character.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Consider, too, that a man lifting his head from the very funeral pyre must need some novel vocabulary not drawn from ordinary everyday condolence to comfort his own dear ones.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
