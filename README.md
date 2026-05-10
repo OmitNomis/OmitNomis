@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 9 May at 03:35 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 10 May at 03:50 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Consider, too, that a man lifting his head from the very funeral pyre must need some novel vocabulary not drawn from ordinary everyday condolence to comfort his own dear ones.</p></b>
+<b><p>Reading of many books is distraction.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
