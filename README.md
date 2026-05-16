@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 15 May at 03:57 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 16 May at 03:38 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Everyone hurries his life on and suffers from a yearning for the future and a weariness of the present. But he who bestows all of his time on his own needs, who plans out every day as if it were his last, neither longs for nor fears the morrow.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>If you have assumed a character beyond your strength, you have both played a poor figure in that, and neglected one that is within your powers.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
