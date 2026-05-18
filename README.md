@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 17 May at 03:58 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 18 May at 04:10 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Greed is satisfied by nothing, but nature finds satisfaction even in scant measure.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>All things from eternity are of like forms and come round in a circle.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.pexels.com/photos/37288837/pexels-photo-37288837.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/37288837/pexels-photo-37288837.jpeg"/></a>
+<a href="https://images.pexels.com/photos/8650941/pexels-photo-8650941.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/8650941/pexels-photo-8650941.jpeg"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Larissa Gabrielli</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Pat Whelen</caption></i>
