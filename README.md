@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 18 May at 04:10 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 19 May at 04:04 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>All things from eternity are of like forms and come round in a circle.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Those who are well constituted in the body endure both heat and cold: and so those who are well constituted in the soul endure both anger and grief and excessive joy and the other affects.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
