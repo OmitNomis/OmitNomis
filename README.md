@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 21 May at 04:14 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 22 May at 04:09 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Words need to be sown like seeds. No matter how tiny a seed may be, when in lands in the right sort of ground it unfolds its strength and from being minute expands and grows to a massive size.</p></b>
+<b><p>It is uncertain where Death will await you; there expect it everywhere.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
