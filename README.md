@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 31 May at 04:21 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 1 June at 04:50 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Neither must he use himself to cut off actions only, but thoughts and imaginations also, that are unnecessary for so will unnecessary consequent actions the better be prevented and cut off.</p></b>
+<b><p>Whatever may happen to you, it was prepared for you from all eternity; and the implication of causes was from eternity spinning the thread of your being, and of that which is incident to it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
