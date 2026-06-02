@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 1 June at 04:50 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 2 June at 04:39 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Whatever may happen to you, it was prepared for you from all eternity; and the implication of causes was from eternity spinning the thread of your being, and of that which is incident to it.</p></b>
+<b><p>For it is according to nature, and nothing is evil which is according to nature.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
