@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 7 June at 04:25 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 8 June at 04:41 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>&quot;Well then, shall we act like other men? Shall there be no distinction between ourselves and the world?&quot; Yes, a very great one; let men find that we are unlike the common herd, if they look closely.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>If there were anything harmful on the other side of death, they would have made sure that the ability to avoid it was within you.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
