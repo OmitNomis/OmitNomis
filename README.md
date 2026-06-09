@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 8 June at 04:41 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 9 June at 04:02 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>If there were anything harmful on the other side of death, they would have made sure that the ability to avoid it was within you.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>It is shameful to hate a person who deserves your praises; but how much more shameful it is to hate someone for the very cause that makes him deserve your pity.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
