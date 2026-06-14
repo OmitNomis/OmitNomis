@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 13 June at 04:18 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 14 June at 04:45 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Not to know what the world is is to be ignorant of where you are. Not to know why it’s here is to be ignorant of who you are. And what it is. Not to know any of this is to be ignorant of why you’re here.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>What then is good? The knowledge of things. What is evil? The lack of knowledge of things.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
