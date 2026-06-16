@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 15 June at 05:00 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 16 June at 05:02 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Alexander the Macedonian and his groom by death were brought to the same state; for either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
