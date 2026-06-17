@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 16 June at 05:02 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 17 June at 04:45 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Alexander the Macedonian and his groom by death were brought to the same state; for either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Some men have shrunk so far into dark corners that objects in bright daylight seem quite blurred to them.’ A.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
