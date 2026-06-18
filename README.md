@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 17 June at 04:45 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 18 June at 04:39 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Some men have shrunk so far into dark corners that objects in bright daylight seem quite blurred to them.’ A.</p></b>
+<b><p>There can be no place of exile within the world since nothing within the world is alien to men.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
