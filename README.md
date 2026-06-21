@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 20 June at 04:11 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 21 June at 04:53 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Regard a friend as loyal, and you will make him loyal.</p></b>
+<b><p>Wherever there is a human being, there is an opportunity for crisis.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
