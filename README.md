@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 22 June at 05:01 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 23 June at 04:01 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Do what you will. Even if you tear yourself apart, most people will continue doing the same things.</p></b>
+<b><p>To read with diligence; not to rest satisfied with a light and superficial knowledge, nor quickly to assent to things commonly spoken of.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
