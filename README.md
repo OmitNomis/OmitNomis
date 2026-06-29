@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 28 June at 04:19 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 29 June at 04:26 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The problem, Paulinus, is not that we have a short life, but that we waste time.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Whatever moral rules you have deliberately proposed to yourself. abide by them as they were laws, and as if you would be guilty of impiety by violating any of them. Don’t regard what anyone says of you, for this, after all, is no concern of yours.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
