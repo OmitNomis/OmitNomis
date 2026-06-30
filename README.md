@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 29 June at 04:26 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 30 June at 04:06 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Whatever moral rules you have deliberately proposed to yourself. abide by them as they were laws, and as if you would be guilty of impiety by violating any of them. Don’t regard what anyone says of you, for this, after all, is no concern of yours.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>It is only in the ideal or perfect state that the virtues of the good citizen and the good man are identical.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
