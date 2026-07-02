@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 1 July at 04:22 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 2 July at 04:01 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Ask yourself at every moment, &#39;Is this necessary?</p></b>
+<b><p>Every portion of me will be reassigned as another portion of the world, and that in turn transformed into another. Ad infinitum.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
