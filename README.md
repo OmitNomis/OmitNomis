@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 2 July at 04:01 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 3 July at 03:47 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Every portion of me will be reassigned as another portion of the world, and that in turn transformed into another. Ad infinitum.</p></b>
+<b><p>Take pleasure in one thing and rest in it, in passing from one social act to another social act, thinking of God.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
