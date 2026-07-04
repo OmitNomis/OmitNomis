@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 3 July at 03:47 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 4 July at 03:38 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Take pleasure in one thing and rest in it, in passing from one social act to another social act, thinking of God.</p></b>
+<b><p>Be not either a man of many words, or busy about too many things.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
