@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 6 July at 04:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 7 July at 03:55 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Refrain from all anger and passion.</p></b>
+<b><p>It is in our power to have no opinion about a thing and not to be disturbed in our soul; for things themselves have no natural power to form our judgments.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
