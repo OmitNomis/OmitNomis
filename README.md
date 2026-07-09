@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 8 July at 03:21 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 9 July at 03:49 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>God save me from fools with a little philosophy—no one is more difficult to reach.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>This will not be a gentle prescription for healing, but cautery and the knife. What shall I achieve? That a soul which has conquered so many miseries will be ashamed to worry about one more wound in a body which already has so many scars.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
