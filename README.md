@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 9 July at 03:49 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 10 July at 03:50 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>This will not be a gentle prescription for healing, but cautery and the knife. What shall I achieve? That a soul which has conquered so many miseries will be ashamed to worry about one more wound in a body which already has so many scars.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Check your passions that you may not be punished by them.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
