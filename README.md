@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 12 July at 03:28 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 13 July at 03:31 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>As they that long after figs in winter when they cannot be had; so are they that long after children, before they be granted them.</p></b>
+<b><p>Your mind will be like its habitual thoughts; for the soul becomes dyed with the colour of its thoughts.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
