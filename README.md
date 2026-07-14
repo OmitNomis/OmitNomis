@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 13 July at 03:31 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 14 July at 02:52 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Your mind will be like its habitual thoughts; for the soul becomes dyed with the colour of its thoughts.</p></b>
+<b><p>Things?—I was once a fortunate man, but I lost it, I know not how.—But fortunate means that a man has assigned to himself a good fortune: and a good fortune is good disposition of the soul, good emotions, good actions.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
