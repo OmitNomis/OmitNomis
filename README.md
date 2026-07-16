@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 15 July at 02:51 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 16 July at 03:12 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Your principles have life in them. For how can they perish, unless the ideas that correspond to them are extinguished? And it is up to you to be constantly fanning them into new flame.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Nothing is more dishonourable than an old man, heavy with years, who has no other evidence of his having lived long except his age.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
