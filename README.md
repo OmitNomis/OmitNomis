@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 20 July at 03:40 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 21 July at 03:18 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>A prudent governor will not roughly oppose even the superstitions of his people; and though he may wish that they were wiser, he will know that he cannot make them so by offending their prejudices.</p></b>
+<b><p>The ruler must be a philosopher as well as a king; and he must govern unwillingly, because he loves philosophy better than dominion.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
