@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 21 July at 03:18 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 22 July at 03:16 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The ruler must be a philosopher as well as a king; and he must govern unwillingly, because he loves philosophy better than dominion.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>The man who looks for the morrow without worrying over it knows a peaceful independence and a happiness beyond all others. Whoever has said, &quot;I have lived&quot; receives a windfall every day he gets up in the morning.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
