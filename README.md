@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 27 July at 03:38 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 28 July at 02:54 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Nothing is ours, except time.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Practice even what seems impossible. The left hand is useless at almost everything, for lack of practice. But it guides the reins better than the right. From practice.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
