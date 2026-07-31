@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 30 July at 02:46 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 31 July at 03:29 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Men are disturbed not by things, but by the view which they take of them.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>We perish because we follow other men&#39;s examples: we should be cured of this if we were to disengage ourselves from the herd.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
