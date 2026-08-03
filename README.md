@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 2 August at 03:27 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 3 August at 03:29 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>If someone speaks badly of you, do not defend yourself against the accusations, but reply; &quot;you obviously don&#39;t know about my other vices, otherwise you would have mentioned these as well.&quot;</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Refrain from all anger and passion.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
