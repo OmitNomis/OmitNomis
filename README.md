@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 6 August at 03:11 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 7 August at 02:52 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>All the works of mortal man have been doomed to mortality, and in the midst of things which have been destined to die, we live!</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>A ripe mature man, a perfect sound man; one that could not endure to be flattered; able to govern both himself and others.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
