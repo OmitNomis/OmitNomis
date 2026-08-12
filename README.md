@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 11 August at 02:04 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 12 August at 02:22 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>An unpopular rule is never long maintained.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Let it happen, if it wants, to whatever it can happen to. And what’s affected can complain about it if it wants. It doesn’t hurt me unless I interpret its happening as harmful to me. I can choose not to.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
