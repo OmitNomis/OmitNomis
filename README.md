@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 13 August at 02:23 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 14 August at 02:21 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Men are tight-fisted in keeping control of their fortunes, but when it comes to the matter of wasting time, they are positively extravagant in the one area where there is honour in being miserly.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Some things are up to us, and some things are not up to us.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
