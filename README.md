@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 15 August at 01:34 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 16 August at 01:40 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Peace you can claim for yourself without being disliked by anyone, without any sense of loss, and without any pangs of spirit.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>If you have assumed any character beyond your strength, you have both demeaned yourself ill in that and quitted one which you might have supported.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
