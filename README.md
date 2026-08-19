@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 18 August at 01:33 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 19 August at 01:35 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>On Epicurus; He says: &quot;Contended poverty is an honourable estate.&quot; Indeed, if it is contented, it is not poverty at all. It is not the man who has little, but the man who craves more, that is poor.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Men are disturbed not by the things which happen, but by the opinions about the things.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
 <hr>
