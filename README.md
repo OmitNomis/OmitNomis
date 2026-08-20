@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 19 August at 01:35 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 20 August at 01:34 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Men are disturbed not by the things which happen, but by the opinions about the things.</p></b>
+<b><p>Whoever then would be free, let him wish nothing, let him decline nothing, which depends on others; else he must necessarily be a slave.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
 
 
