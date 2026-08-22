@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 21 August at 01:39 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 22 August at 01:33 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>The soul becomes dyed with the colour of its thoughts.</p></b>
+<b><p>Is any man so foolish as to fear change, to which all things that once were not owe their being? And.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
