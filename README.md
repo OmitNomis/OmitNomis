@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 25 August at 01:35 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 26 August at 01:40 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Hence the dictum of the greatest of doctors:† ‘Life is short, art is long.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Not to know what the world is is to be ignorant of where you are. Not to know why it’s here is to be ignorant of who you are. And what it is. Not to know any of this is to be ignorant of why you’re here.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
