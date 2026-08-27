@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 26 August at 01:40 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 27 August at 08:35 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Not to know what the world is is to be ignorant of where you are. Not to know why it’s here is to be ignorant of who you are. And what it is. Not to know any of this is to be ignorant of why you’re here.</p></b>
+<b><p>The universe is change; our life is what our thoughts make it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
