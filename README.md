@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 31 August at 04:52 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Tuesday 1 September at 04:31 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>That whenever I felt like helping someone who was short of money, or otherwise in need, I never had to be told that I had no resources to do it with. And that I was never put in that position myself—of having to take something from someone else.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>Conversation has a kind of charm about it, an insinuating and insidious something that elicits secrets from us just like love or liquor.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
