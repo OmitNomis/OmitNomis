@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 5 September at 03:52 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 6 September at 03:57 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>That advocate is lionized throughout the whole forum, and fills all the place with a great crowd that stretches farther than he can be heard, yet he says: “When will vacation time come?”</p></b>
+<b><p>A good man will not waste himself upon mean and discreditable work or be busy merely for the sake of being busy.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
