@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 6 September at 03:57 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 7 September at 03:56 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>A good man will not waste himself upon mean and discreditable work or be busy merely for the sake of being busy.</p></b>
+<b><p>Since the mind when distracted absorbs nothing deeply, but rejects everything which is, so to speak, crammed into it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
