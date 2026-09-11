@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 10 September at 04:03 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 11 September at 04:00 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>When the longest- and shortest-lived of us dies their loss is precisely equal. For the sole thing of which any of us can be deprived is the present, since this is all we own, and nobody can lose what is not theirs.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
+<b><p>In times of happiness, no point in shaking things up. But in a time of crisis, the safest thing is change.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
