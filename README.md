@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 13 September at 04:13 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 14 September at 04:20 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>If thy brother wrongs thee, remember not so much his wrong-doing, but more than ever that he is thy brother.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Epictetus</caption></i>
+<b><p>Living is the least important activity of the preoccupied man.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
