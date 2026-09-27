@@ -1,10 +1,10 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 26 September at 04:26 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 27 September at 04:44 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>For only philosophy or honourable occupation can divert from its anguish a heart whose grief springs from love.</p></b>
-<i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
+<b><p>Finally, therefore, remember your retreat into this little domain which is yourself, and above all be not disturbed nor on the rack, but be free and look at things as a man, a human being, a citizen, a creature that must die.</p></b>
+<i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
 <hr>
