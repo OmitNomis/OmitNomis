@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 3 October at 04:45 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 4 October at 05:16 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Each day acquire something that will fortify you against poverty, against death, indeed against other misfortunes as well; and after you have run over many thoughts, select one to be thoroughly digested that day.</p></b>
+<b><p>But you never deign to look at yourself or listen to yourself. So you have no reason to claim credit from anyone for those attentions, since you showed them not because you wanted someone else’s company but because you could not bearyour own.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
