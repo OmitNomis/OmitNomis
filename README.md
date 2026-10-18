@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 17 October at 03:50 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 18 October at 03:57 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>To expect punishment is to suffer it; and to earn it is to expect it.</p></b>
+<b><p>Why do you voluntarily deceive yourself and require to be told now for the first time what fate it is that you have long been labouring under? Take my word for it: since the day you were born you are being led thither.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
