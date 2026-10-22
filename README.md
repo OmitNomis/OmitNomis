@@ -1,15 +1,15 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Wednesday 21 October at 04:07 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Thursday 22 October at 04:08 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>If you wish to make Pythocles an old man, filling his life to the full, do not add to his years, but subtract from his desires.</p></b>
+<b><p>Pleasure, unless it has been kept within bounds, tends to rush headlong into the abyss of sorrow.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
 <hr>
 
 <h3>Daily Image</h3>
-<a href="https://images.pexels.com/photos/40225846/pexels-photo-40225846.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/40225846/pexels-photo-40225846.jpeg"/></a>
+<a href="https://images.pexels.com/photos/39706907/pexels-photo-39706907.jpeg" target="_blank"><img style="height:500px;" src="https://images.pexels.com/photos/39706907/pexels-photo-39706907.jpeg"/></a>
 
-<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Nastya Velychko</caption></i>
+<i><caption style="font-size: 0.8rem; color:gray;"> Photo By 📷: Katya Humeniuk</caption></i>
