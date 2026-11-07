@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Friday 6 November at 05:56 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Saturday 7 November at 05:28 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>Not all men are wounded in the same place; and so you ought to know what part of you is weak, so you can give it the most protection.</p></b>
+<b><p>Luck is what happens when preparation meets opportunity.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Seneca</caption></i>
 
 
