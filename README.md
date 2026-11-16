@@ -1,9 +1,9 @@
 <h1>👋🏽 Welcome!<a href="https://github.com/OmitNomis/"> <img src="https://visitor-badge.laobi.icu/badge?page_id=OmitNomis" alt="Visitors"></a></h1>
 
-<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Sunday 15 November at 05:47 UTC)</p></i>
+<i><p style="font-size: 0.6rem; color:gray">(Last Updated: Monday 16 November at 05:47 UTC)</p></i>
 
 <h3> Daily Quote </h3>
-<b><p>To recover your life is within your power; simply view things again as once you viewed them, for your revival rests in that.</p></b>
+<b><p>If you are distressed about anything, the pain is not due to the thing but to your own estimate of it.</p></b>
 <i><caption style="font-size: 0.8rem; color:gray;">- Marcus Aurelius</caption></i>
 
 
